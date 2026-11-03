@@ -14,7 +14,7 @@ An AI-powered customer support automation workflow built using n8n and OpenRoute
 
 ## Workflow Architecture
 
-![n8n Workflow Screenshot](workflow-screenshot.png)
+![n8n Workflow Screenshot](N8n%20Workflow.PNG)
 
 ## Technologies
 - n8n
